@@ -1,1 +1,3 @@
-### `questions codes from different problem solving platforms like codeforces, atCoders, uva .. etc`
+<div align="left">
+<p><strong>Problems Solutions</strong></p>
+</div>
